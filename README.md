@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Welcome to BIREME Pages
 
-You can use the [editor on GitHub](https://github.com/andrejjh/bireme.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**European Bireme** project aims to study EU Nodes in biodiversity reporting mechanisms.
+This project is funded by [GBIF's CESP 2017](http://www.gbif.org/programme/capacity-support).
+## Summary
 
 ```markdown
-Syntax highlighted code block
+This project aims to describe EU reporting processes and data flows in several EU countries, investigate how GBIF could facilitate EU reporting and recommend changes to GBIF tools/procedures, if needed.Best practices will be identified, summarized and spread to all EU countries.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+The project will be articulated around two phases:
+1. Assess nationally how EU reporting works based on a common
+methodology. These assessments will be conducted in *Belgium*,
+*France*, *Ireland*, *Norway* and *Portugal*
+2. Compare national assessments, extract best practices and give recommendations to GBIF Secretariat and European Nodes
+```
+## Partners
+```markdown
+Representative | Partner
+-------------- | -------
+Anne-Sophie Archmabeau | GBIF France
+Liam Lysaght | GBIF Ireland
+Dag Endresen | GBIF Norway
+Rui Figueira | GBIF Portugal
+Wouter Addink | Species 2000
+Hanna Koivula | Finnish Environment Institute
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Calendar
+Project starts in September 2017 and will end in May 2018.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/andrejjh/bireme.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Contact
+Please contact [André Heughebaert](mailto:a.heughebaert@biodiversity.be) for further information on the project.
