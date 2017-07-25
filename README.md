@@ -1,10 +1,10 @@
 ## Welcome to BIREME Pages
 
-**European Bireme** project aims to study EU Nodes in biodiversity reporting mechanisms.
-This project is funded by [GBIF's CESP 2017](http://www.gbif.org/programme/capacity-support).
+Funded by [CESP 2017](http://www.gbif.org/programme/capacity-support), **European Bireme** project will study European Nodes in **bi**odiversity **re**porting **me**chanisms.
+
 ## Summary
 
-This project aims to describe EU reporting processes and data flows in several EU countries, investigate how GBIF could facilitate EU reporting and recommend changes to GBIF tools/procedures, if needed.Best practices will be identified, summarized and spread to all EU countries.
+This project aims to describe EU reporting processes and data flows in five EU countries, investigate how [GBIF](http://www.gbif.org) could facilitate EU reporting and recommend changes to GBIF tools/procedures, if needed. Best practices will be identified, summarized and spread to all EU countries.
 
 The project will be articulated around two phases:
 1. Assess nationally how EU reporting works based on a common
@@ -22,7 +22,9 @@ People involved in the project are:
 * André Heughebaert, GBIF Belgium
 
 ## Calendar
-Project starts in September 2017 and will end in May 2018.
+Project starts in September 2017 and ends in May 2018. Two workshops are foreseen:
+1. *Defining scope and methodology of national use cases*
+2. *Analysing national use cases and proposing improvements*
 
 ## Contact
 Please contact [André Heughebaert](mailto:a.heughebaert@biodiversity.be) for further information on the project.
