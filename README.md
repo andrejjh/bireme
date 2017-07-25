@@ -12,16 +12,14 @@ methodology. These assessments will be conducted in *Belgium*, *France*, *Irelan
 2. Compare national assessments, extract best practices and give recommendations to GBIF Secretariat and European Nodes
 
 ## Partners
-```markdown
-Representative | Partner
--------------- | -------
-Anne-Sophie Archambeau | GBIF France
-Liam Lysaght | GBIF Ireland
-Dag Endresen | GBIF Norway
-Rui Figueira | GBIF Portugal
-Wouter Addink | Species 2000
-Hanna Koivula | Finnish Environment Institute
-```
+People involved in the project are:
+* Anne-Sophie Archambeau, GBIF France
+* Liam Lysaght, GBIF Ireland
+* Dag Endresen, GBIF Norway
+* Rui Figueira, GBIF Portugal
+* Wouter Addink, Species 2000
+* Hanna Koivula, Finnish Environment Institute
+* André Heughebaert, GBIF Belgium
 
 ## Calendar
 Project starts in September 2017 and will end in May 2018.
