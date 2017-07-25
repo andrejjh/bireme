@@ -12,14 +12,16 @@ methodology. These assessments will be conducted in *Belgium*, *France*, *Irelan
 2. Compare national assessments, extract best practices and give recommendations to GBIF Secretariat and European Nodes
 
 ## Partners
+```markdown
 Representative | Partner
 -------------- | -------
-Anne-Sophie Archmabeau | GBIF France
+Anne-Sophie Archambeau | GBIF France
 Liam Lysaght | GBIF Ireland
 Dag Endresen | GBIF Norway
 Rui Figueira | GBIF Portugal
 Wouter Addink | Species 2000
 Hanna Koivula | Finnish Environment Institute
+```
 
 ## Calendar
 Project starts in September 2017 and will end in May 2018.
