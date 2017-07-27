@@ -1,8 +1,4 @@
----
-title: About us
-layout: post
----
-
+## About us
 People involved in the project are:
 * Anne-Sophie Archambeau, GBIF France
 * Liam Lysaght, GBIF Ireland
