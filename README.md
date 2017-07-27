@@ -1,3 +1,8 @@
+---
+title: BIREME home
+layout: post
+---
+
 ## Welcome to BIREME Pages
 
 Funded by [CESP 2017](http://www.gbif.org/programme/capacity-support), **European Bireme** project will study European Nodes in **bi**odiversity **re**porting **me**chanisms.
