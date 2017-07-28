@@ -1,1 +1,5 @@
-Welcome to BIREME Project Pages
+---
+layout: page
+title: Home
+permalink: /
+---
