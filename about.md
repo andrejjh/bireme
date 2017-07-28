@@ -8,5 +8,3 @@ People involved in the project are:
 * Hanna Koivula, Finnish Environment Institute
 * André Heughebaert, GBIF Belgium
 
-Please contact [André Heughebaert](mailto:a.heughebaert@biodiversity.be) for further information on the project.
-
