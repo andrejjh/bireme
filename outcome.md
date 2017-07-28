@@ -1,3 +1,8 @@
+---
+layout: page
+title: Outcome
+permalink: /outcome/
+---
 This documentation project will initially assemble biodiversity reporting
 mechanisms experiences of the partners in national use cases.
 In a second part of the document, best practices will be summarized and
