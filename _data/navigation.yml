@@ -1,8 +1,8 @@
 - link: /
   name: Home
-- link: /posts
-  name: Posts
 - link: /about
   name: About
+- link: /outcome
+  name: Outcome
 - link: /contact
   name: Contact
