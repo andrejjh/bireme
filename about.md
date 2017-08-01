@@ -3,9 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-Funded by [CESP 2017](http://www.gbif.org/programme/capacity-support), **European Bireme** project will study European Nodes in **bi**odiversity **re**porting **me**chanisms.
-
-## Summary
 
 This project aims to describe EU reporting processes and data flows in five EU countries, investigate how [GBIF](http://www.gbif.org) could facilitate EU reporting and recommend changes to GBIF tools/procedures, if needed. Best practices will be identified, summarized and spread to all EU countries.
 
