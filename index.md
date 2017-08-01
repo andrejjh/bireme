@@ -1,5 +1,1 @@
----
-layout: default
-title: Home
-permalink: /
----
+Welcome to Bireme project.
