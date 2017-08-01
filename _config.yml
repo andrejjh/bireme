@@ -1,4 +1,5 @@
-theme: minina
 title: Bireme project
-description: Web pages for the GBIF CESP2017-002 European Bireme project.
+description: Web pages for the GBIF CESP2017 European Bireme project.
+markdown: kramdown
+theme: minina
 baseurl: /bireme
