@@ -1,1 +1,1 @@
-![Bireme]({{ site.url }}/assets/banner.jpg)
+![Bireme](/bireme/assets/banner.jpg)
