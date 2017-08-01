@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 
+![Bireme](/bireme/assets/GreekBireme500BC.jpg)
 This project aims to describe EU reporting processes and data flows in five EU countries, investigate how [GBIF](http://www.gbif.org) could facilitate EU reporting and recommend changes to GBIF tools/procedures, if needed. Best practices will be identified, summarized and spread to all EU countries.
 
 The project will be articulated around two phases:
