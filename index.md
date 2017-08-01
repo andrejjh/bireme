@@ -1,1 +1,1 @@
-Welcome to Bireme project.
+![Bireme]({{ site.url }}/assets/banner.jpg)
