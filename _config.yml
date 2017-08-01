@@ -1,5 +1,5 @@
 title: Bireme project
 description: Web pages for the GBIF CESP2017 European Bireme project.
 markdown: kramdown
-theme: minina
+theme: slate
 baseurl: /bireme
