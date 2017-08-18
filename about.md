@@ -5,6 +5,9 @@ permalink: /about/
 ---
 
 ![Bireme](/bireme/assets/GreekBireme500BC.jpg)
+
+Funded by [GBIF Capacity Enhancement Support Programme](https://www.gbif.org/programme/82219/capacity-enhancement-support-programme), the [European Bireme](https://www.gbif.org/project/83336/european-bireme-eu-nodes-in-biodiversity-reporting-mechanisms) project will study European Nodes in **bi**odiversity **re**porting **me**chanisms.
+
 This project aims to describe EU reporting processes and data flows in five EU countries, investigate how [GBIF](http://www.gbif.org) could facilitate EU reporting and recommend changes to GBIF tools/procedures, if needed. Best practices will be identified, summarized and spread to all EU countries.
 
 The project will be articulated around two phases:
@@ -26,4 +29,3 @@ People involved in the project are:
 * Wouter Addink, Species 2000
 * Hanna Koivula, Finnish Environment Institute
 * André Heughebaert, GBIF Belgium
-
